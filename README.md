@@ -6,7 +6,8 @@ nginx+nginx-rtmp-module
 Web:
 videojs-contrib-hls
 
-Install:
+Install guide:
+
 1) get server from docker: docker pull docker.io/decren/nginx-rtmp
 
 2) start nginx  at /usr/local/nginx/
